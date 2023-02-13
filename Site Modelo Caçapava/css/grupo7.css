@@ -8,7 +8,6 @@
     --redDark: #681413;
     --orange:#ffa200;
     --purple:#5a2e62;
-    --white:#f2f2f2;
 }
 /* AQUI ESTÃO SOMENTE AS TAGS COM SUAS PROPRIEDADES */
 *{
@@ -67,7 +66,7 @@ h1 {
     padding-top: 16px;
     padding-bottom: 4px;
     margin: 0;
-    color: var(--black);
+    color: var(--white);
 }
 
 h2 {
