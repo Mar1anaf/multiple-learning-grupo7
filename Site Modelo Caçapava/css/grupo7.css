@@ -40,11 +40,7 @@ body {
 }
 
 header {
-<<<<<<< HEAD
     background-color: var(--red);
-=======
-    background-color: var(--white);
->>>>>>> 6a7a6f9dda9b071458e1c04c42d1111c7026bff5
     color: var(--black);
     /* min-height: 60px; */
     width: 100%;
